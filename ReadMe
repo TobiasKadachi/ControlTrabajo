@@ -1,0 +1,10 @@
+Descripción del proyecto:
+
+El proyecto se desarrollará con el lenguaje C# con XAML.
+Consiste en un sistema versatil orientado principalmente en la asistencia de tareas para el trabajador (usuario). Su funcionalidad comprende
+entre crear simples anotaciones con alertas programables para que sirvan como recordatorio, hasta la implementación de tareas del sistema para
+facilitar las tareas laborales.
+Ejemplos de funcionalidad:
+-Crear una nota que recuerde al usuario que tiene que hacer algo en una semana.
+-Programar un análisis del sistema en busca de virus cada semana.
+-Notificar al usuario cuando se haya llegado a cierta capaz de almacenamiento de archivos.
