@@ -9,3 +9,6 @@ consejos para solucionar fallos o mofificar características para la adecuación
 06/02/2023
 Iniciado el proyecto, ahora empieza a definir el interfaz principal.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+08/02/2023
+Añadidos unos pocos elementos en la interfaz para una idea previa de ésta.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
