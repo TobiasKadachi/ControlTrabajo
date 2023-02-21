@@ -12,3 +12,6 @@ Iniciado el proyecto, ahora empieza a definir el interfaz principal.
 08/02/2023
 Añadidos unos pocos elementos en la interfaz para una idea previa de ésta.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+21/02/2023
+Ajustes de la interfaz básica y corrección de errores de compatibilidad en mi equipo personal.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
